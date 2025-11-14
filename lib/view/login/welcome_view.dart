@@ -7,8 +7,6 @@ import 'package:quickrun2/common_widget/round_button.dart';
 
 import 'package:quickrun2/view/admin2/admin_login_view.dart';
 
-import 'package:quickrun2/common_widget/round_button.dart';
-
 class WelcomeView extends StatefulWidget {
   const WelcomeView({super.key});
 
