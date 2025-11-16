@@ -1,0 +1,6 @@
+# Run Flutter setup
+flutter pub get
+
+# Go into the iOS folder and run pod install
+cd ios
+pod install
